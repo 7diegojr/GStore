@@ -94,11 +94,279 @@ public class SeedProduto
                 Destaque = true,
                 Foto = "/img/produtos/1.png"
             },
+
             // ========= RETRÔ ==========
+
+            new() {
+                Id = 9,
+                CategoriaId = 2,
+                Nome = "Camiseta Masculina Palmeiras Retrô 1959",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 10,
+                CategoriaId = 2,
+                Nome = "Camiseta Masculina Palmeiras Retrô 1959",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 11,
+                CategoriaId = 2,
+                Nome = "Camiseta Masculina Palmeiras Retrô 1972",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 12,
+                CategoriaId = 2,
+                Nome = "Camiseta Palmeiras Retrô 1994 Juvenil",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 13,
+                CategoriaId = 2,
+                Nome = "Camiseta Masculina Palmeiras Flame Retrô 1959",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 14,
+                CategoriaId = 2,
+                Nome = "Camisa Palmeiras Retrô 1999 Masculina",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 15,
+                CategoriaId = 2,
+                Nome = "Camiseta Palmeiras Marcos Retrô 1999 Masculina",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 16,
+                CategoriaId = 2,
+                Nome = "Camisa Palmeiras Retrô 1989 Masculina",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
 
             // ========= JAQUETAS E CASACOS ==========
 
+            new() {
+                Id = 17,
+                CategoriaId = 3,
+                Nome = "Agasalho Palmeiras Alive Masculino",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 18,
+                CategoriaId = 3,
+                Nome = "Agasalho Palmeiras Savoia Masculino",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 19,
+                CategoriaId = 3,
+                Nome = "Quebra Vento Palmeiras Torcedor Masculino",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 20,
+                CategoriaId = 3,
+                Nome = "Jaqueta Palmeiras Puma",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 21,
+                CategoriaId = 3,
+                Nome = "Quebra Vento Palmeiras Premium Masculino",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 22,
+                CategoriaId = 3,
+                Nome = "Jaqueta Palmeiras Puma 24/25",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 23,
+                CategoriaId = 3,
+                Nome = "Blusa Corta Vento Palmeiras Puma 25/26",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 24,
+                CategoriaId = 3,
+                Nome = "Jaqueta Palmeiras Casual Hoody 23/24",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+
             // ========= ACESSÓRIOS ==========
+
+            new() {
+                Id = 25,
+                CategoriaId = 4,
+                Nome = "Boné Treino Verde Palmeiras Puma 24/25",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 26,
+                CategoriaId = 4,
+                Nome = "Boné Casual Palmeiras Puma",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 27,
+                CategoriaId = 4,
+                Nome = "Mochila Palmeiras Puma 24/25",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 28,
+                CategoriaId = 4,
+                Nome = "Bolsa Palmeiras Puma 24/25",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 29,
+                CategoriaId = 4,
+                Nome = "Mochila Porta Notebook Tradicional do Palmeiras",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 30,
+                CategoriaId = 4,
+                Nome = "Bolsa Sport do Palmeiras",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 31,
+                CategoriaId = 4,
+                Nome = "Bolsa Média de Viagem Esportiva do Palmeiras",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
+            new() {
+                Id = 32,
+                CategoriaId = 4,
+                Nome = "Mala Bordo 360 Vega Palmeiras 20 - Verde",
+                Descrição = @"texto",
+                ValorCusto = 1,
+                ValorVenda = 1.99m,
+                Qtde = 0,
+                Destaque = true,
+                Foto = "/img/produtos/1.png"
+            },
         ];
         modelBuilder.Entity<Produto>().HasData(produtos);
     }

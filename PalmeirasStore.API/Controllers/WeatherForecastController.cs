@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace GStore.API.Controllers;
+namespace PalmeirasStore.API.Controllers;
 
 [ApiController]
 [Route("[controller]")]

@@ -1,4 +1,4 @@
-namespace GStore.API;
+namespace PalmeirasStore.API;
 
 public class WeatherForecast
 {

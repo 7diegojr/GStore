@@ -1,10 +1,10 @@
-using GStore.API.Models;
+using PalmeirasStore.API.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
-using GStore.API.Data.Seeds;
+using PalmeirasStore.API.Data.Seeds;
 
-namespace GStore.API.Data;
+namespace PalmeirasStore.API.Data;
 
 public class AppDbContext : IdentityDbContext<Usuario>
 {

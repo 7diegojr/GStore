@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.AspNetCore.Identity;
 
-namespace GStore.API.Models;
+namespace PalmeirasStore.API.Models;
 
 [Table("usuarios")]
 public class Usuario : IdentityUser

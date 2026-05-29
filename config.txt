@@ -1,4 +1,4 @@
 git config --global user.name 7diegojr
 git config --global user.email dfsntsjunior@gmail.com
 
-dotnet new webapi -o GStore.API --use-controllers
+dotnet new webapi -o PalmeirasStore.API --use-controllers

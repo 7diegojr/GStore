@@ -1,7 +1,7 @@
-using GStore.API.Models;
+using PalmeirasStore.API.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace GStore.API.Data.Seeds;
+namespace PalmeirasStore.API.Data.Seeds;
 
 public class SeedCategoria
 {

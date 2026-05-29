@@ -1,0 +1,6 @@
+@PalmeirasStore.API_HostAddress = http://localhost:5033
+
+GET {{PalmeirasStore.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

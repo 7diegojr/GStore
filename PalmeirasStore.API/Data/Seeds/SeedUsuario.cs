@@ -1,8 +1,8 @@
-using GStore.API.Models;
+using PalmeirasStore.API.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
-namespace GStore.API.Data.Seeds;
+namespace PalmeirasStore.API.Data.Seeds;
 
 public class SeedUsuario
 {
@@ -28,8 +28,8 @@ public class SeedUsuario
         List<Usuario> usuarios = [
             new() {
                 Id = "fca9b084-c3d5-4c55-8b18-66c00289e601",
-                Email = "admin@gstore.com.br",
-                NormalizedEmail = "ADMIN@GSTORE.COM.BR",
+                Email = "admin@PalmeirasStore.com.br",
+                NormalizedEmail = "ADMIN@PalmeirasStore.COM.BR",
                 UserName = "Admin",
                 NormalizedUserName = "ADMIN",
                 LockoutEnabled = true,

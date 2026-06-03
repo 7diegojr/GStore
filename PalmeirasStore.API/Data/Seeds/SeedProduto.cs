@@ -18,7 +18,7 @@ public class SeedProduto
                 ValorVenda = 379.90m, // "m" --> monetário (para números decimais)
                 Qtde = 120,
                 Destaque = true,
-                Foto = "/img/produtos/camisas/1.png"
+                Foto = "/img/Produtos/Camisas/1.png"
             },
             new() {
                 Id = 2,
@@ -29,7 +29,7 @@ public class SeedProduto
                 ValorVenda = 379.90m,
                 Qtde = 110,
                 Destaque = true,
-                Foto = "/img/produtos/camisas/2.png"
+                Foto = "/img/Produtos/Camisas/2.png"
             },
             new() {
                 Id = 3,
@@ -40,7 +40,7 @@ public class SeedProduto
                 ValorVenda = 249.90m,
                 Qtde = 65,
                 Destaque = true,
-                Foto = "/img/produtos/camisas/3.png"
+                Foto = "/img/Produtos/Camisas/3.png"
             },
             new() {
                 Id = 4,
@@ -51,7 +51,7 @@ public class SeedProduto
                 ValorVenda = 249.90m,
                 Qtde = 55,
                 Destaque = true,
-                Foto = "/img/produtos/camisas/4.png"
+                Foto = "/img/Produtos/Camisas/4.png"
             },
             new() {
                 Id = 5,
@@ -62,7 +62,7 @@ public class SeedProduto
                 ValorVenda = 429.90m,
                 Qtde = 30,
                 Destaque = true,
-                Foto = "/img/produtos/camisas/5.png"
+                Foto = "/img/Produtos/Camisas/5.png"
             },
             new() {
                 Id = 6,
@@ -73,7 +73,7 @@ public class SeedProduto
                 ValorVenda = 249.90m,
                 Qtde = 25,
                 Destaque = true,
-                Foto = "/img/produtos/camisas/6.png"
+                Foto = "/img/Produtos/Camisas/6.png"
             },
             new() {
                 Id = 7,
@@ -84,7 +84,7 @@ public class SeedProduto
                 ValorVenda = 249.90m,
                 Qtde = 20,
                 Destaque = true,
-                Foto = "/img/produtos/camisas/7.png"
+                Foto = "/img/Produtos/Camisas/7.png"
             },
             new() {
                 Id = 8,
@@ -95,7 +95,7 @@ public class SeedProduto
                 ValorVenda = 369.90m,
                 Qtde = 15,
                 Destaque = true,
-                Foto = "/img/produtos/camisas/8.png"
+                Foto = "/img/Produtos/Camisas/8.png"
             },
 
             // ========= RETRÔ ==========
@@ -109,7 +109,7 @@ public class SeedProduto
                 ValorVenda = 279.90m,
                 Qtde = 22,
                 Destaque = true,
-                Foto = "/img/produtos/retro/1.png"
+                Foto = "/img/Produtos/Retro/1.png"
             },
             new() {
                 Id = 10,
@@ -120,7 +120,7 @@ public class SeedProduto
                 ValorVenda = 279.90m,
                 Qtde = 18,
                 Destaque = true,
-                Foto = "/img/produtos/retro/2.png"
+                Foto = "/img/Produtos/Retro/2.png"
             },
             new() {
                 Id = 11,
@@ -131,7 +131,7 @@ public class SeedProduto
                 ValorVenda = 289.90m,
                 Qtde = 20,
                 Destaque = true,
-                Foto = "/img/produtos/retro/3.png"
+                Foto = "/img/Produtos/Retro/3.png"
             },
             new() {
                 Id = 12,
@@ -142,7 +142,7 @@ public class SeedProduto
                 ValorVenda = 289.90m,
                 Qtde = 17,
                 Destaque = true,
-                Foto = "/img/produtos/retro/4.png"
+                Foto = "/img/Produtos/Retro/4.png"
             },
             new() {
                 Id = 13,
@@ -153,7 +153,7 @@ public class SeedProduto
                 ValorVenda = 259.90m,
                 Qtde = 24,
                 Destaque = true,
-                Foto = "/img/produtos/retro/5.png"
+                Foto = "/img/Produtos/Retro/5.png"
             },
             new() {
                 Id = 14,
@@ -164,7 +164,7 @@ public class SeedProduto
                 ValorVenda = 249.90m,
                 Qtde = 28,
                 Destaque = true,
-                Foto = "/img/produtos/retro/6.png"
+                Foto = "/img/Produtos/Retro/6.png"
             },
             new() {
                 Id = 15,
@@ -175,7 +175,7 @@ public class SeedProduto
                 ValorVenda = 269.90m,
                 Qtde = 19,
                 Destaque = true,
-                Foto = "/img/produtos/retro/7.png"
+                Foto = "/img/Produtos/Retro/7.png"
             },
             new() {
                 Id = 16,
@@ -186,7 +186,7 @@ public class SeedProduto
                 ValorVenda = 319.90m,
                 Qtde = 12,
                 Destaque = true,
-                Foto = "/img/produtos/retro/8.png"
+                Foto = "/img/Produtos/Retro/8.png"
             },
 
             // ========= JAQUETAS E CASACOS ==========
@@ -200,7 +200,7 @@ public class SeedProduto
                 ValorVenda = 429.90m,
                 Qtde = 45,
                 Destaque = true,
-                Foto = "/img/produtos/jaquetas-e-casacos/1.png"
+                Foto = "/img/Produtos/Jaquetas-Casacos/1.png"
             },
             new() {
                 Id = 18,
@@ -211,7 +211,7 @@ public class SeedProduto
                 ValorVenda = 449.90m,
                 Qtde = 38,
                 Destaque = true,
-                Foto = "/img/produtos/jaquetas-e-casacos/2.png"
+                Foto = "/img/Produtos/Jaquetas-Casacos/2.png"
             },
             new() {
                 Id = 19,
@@ -222,7 +222,7 @@ public class SeedProduto
                 ValorVenda = 359.90m,
                 Qtde = 50,
                 Destaque = true,
-                Foto = "/img/produtos/jaquetas-e-casacos/3.png"
+                Foto = "/img/Produtos/Jaquetas-Casacos/3.png"
             },
             new() {
                 Id = 20,
@@ -233,7 +233,7 @@ public class SeedProduto
                 ValorVenda = 369.90m,
                 Qtde = 42,
                 Destaque = true,
-                Foto = "/img/produtos/jaquetas-e-casacos/4.png"
+                Foto = "/img/Produtos/Jaquetas-Casacos/4.png"
             },
             new() {
                 Id = 21,
@@ -244,7 +244,7 @@ public class SeedProduto
                 ValorVenda = 949.90m,
                 Qtde = 10,
                 Destaque = true,
-                Foto = "/img/produtos/jaquetas-e-casacos/5.png"
+                Foto = "/img/Produtos/Jaquetas-Casacos/5.png"
             },
             new() {
                 Id = 22,
@@ -255,7 +255,7 @@ public class SeedProduto
                 ValorVenda = 419.90m,
                 Qtde = 48,
                 Destaque = true,
-                Foto = "/img/produtos/jaquetas-e-casacos/6.png"
+                Foto = "/img/Produtos/Jaquetas-Casacos/6.png"
             },
             new() {
                 Id = 23,
@@ -266,7 +266,7 @@ public class SeedProduto
                 ValorVenda = 479.90m,
                 Qtde = 35,
                 Destaque = true,
-                Foto = "/img/produtos/jaquetas-e-casacos/7.png"
+                Foto = "/img/Produtos/Jaquetas-Casacos/7.png"
             },
             new() {
                 Id = 24,
@@ -277,7 +277,7 @@ public class SeedProduto
                 ValorVenda = 599.90m,
                 Qtde = 22,
                 Destaque = true,
-                Foto = "/img/produtos/jaquetas-e-casacos/8.png"
+                Foto = "/img/Produtos/Jaquetas-Casacos/8.png"
             },
 
             // ========= ACESSÓRIOS ==========
@@ -285,38 +285,16 @@ public class SeedProduto
             new() {
                 Id = 25,
                 CategoriaId = 4,
-                Nome = "Boné Treino Verde Palmeiras Puma 24/25",
-                Descricao = @"Proteção do sol com identidade alviverde. O boné de treino da temporada 24/25 foi desenvolvido para acompanhar o torcedor tanto nos treinos quanto no dia a dia, com tecido leve, fechamento ajustável e o escudo do Palmeiras em destaque. Prático, confortável e com o verde que representa um dos maiores clubes do Brasil.",
-                ValorCusto = 79.95m,
-                ValorVenda = 159.90m,
-                Qtde = 85,
-                Destaque = true,
-                Foto = "/img/produtos/acessorios/1.png"
-            },
-            new() {
-                Id = 26,
-                CategoriaId = 4,
-                Nome = "Boné Casual Palmeiras Puma",
-                Descricao = @"Para o palmeirense que leva o clube em todo lugar. O boné casual traz um design mais versátil e urbano, combinando facilmente com diferentes estilos sem perder a essência do Verdão. Com bordado de qualidade e estrutura durável, é um acessório que une atitude e pertencimento no dia a dia.",
-                ValorCusto = 84.95m,
-                ValorVenda = 169.90m,
-                Qtde = 78,
-                Destaque = true,
-                Foto = "/img/produtos/acessorios/2.png"
-            },
-            new() {
-                Id = 27,
-                CategoriaId = 4,
                 Nome = "Mochila Palmeiras Puma 24/25",
                 Descricao = @"Funcional e com a cara do Verdão. A mochila da temporada 24/25 foi desenvolvida para atender às demandas do dia a dia sem abrir mão do estilo. Com compartimentos organizados, alças ergonômicas e os símbolos do Palmeiras estampados com orgulho, é a companheira ideal para treinos, viagens ou a rotina do torcedor apaixonado.",
                 ValorCusto = 164.95m,
                 ValorVenda = 329.90m,
                 Qtde = 60,
                 Destaque = true,
-                Foto = "/img/produtos/acessorios/3.png"
+                Foto = "/img/Produtos/Mochilas-Bagagens/1.png"
             },
             new() {
-                Id = 28,
+                Id = 26,
                 CategoriaId = 4,
                 Nome = "Mochila Porta Notebook Tradicional do Palmeiras",
                 Descricao = @"Proteção para o que importa, com a identidade de quem você torce. Esta mochila com compartimento exclusivo para notebook une praticidade profissional e amor pelo Palmeiras em um único produto. Com acabamento resistente e design clean, é a escolha perfeita para quem quer carregar o clube até o ambiente de trabalho.",
@@ -324,21 +302,32 @@ public class SeedProduto
                 ValorVenda = 289.90m,
                 Qtde = 52,
                 Destaque = true,
-                Foto = "/img/produtos/acessorios/4.png"
+                Foto = "/img/Produtos/Mochilas-Bagagens/2.png"
+            },
+            new() {
+                Id = 27,
+                CategoriaId = 4,
+                Nome = "Bolsa Palmeiras Puma 24/25",
+                Descricao = @"Leve, prática e perfeita para a rotina. A bolsa Palmeiras Puma 24/25 foi criada para acompanhar o torcedor em atividades do dia a dia, treinos e deslocamentos rápidos. Seu formato compacto facilita o transporte dos itens essenciais, enquanto os detalhes oficiais do clube reforçam a paixão pelo Verdão em qualquer ocasião.",
+                ValorCusto = 74.95m,
+                ValorVenda = 149.99m,
+                Qtde = 90,
+                Destaque = true,
+                Foto = "/img/Produtos/Mochilas-Bagagens/3.png"
+            },
+            new() {
+                Id = 28,
+                CategoriaId = 4,
+                Nome = "Bolsa Saco Palmeiras Puma 26/27",
+                Descricao = @"Versátil e moderna, a bolsa saco Palmeiras Puma 26/27 é ideal para quem busca praticidade sem abrir mão do estilo. Leve e fácil de transportar, ela oferece espaço suficiente para itens essenciais de treinos, caminhadas ou atividades cotidianas. O design esportivo e os detalhes oficiais do Palmeiras transformam este acessório em uma demonstração de orgulho alviverde.",
+                ValorCusto = 74.95m,
+                ValorVenda = 149.99m,
+                Qtde = 85,
+                Destaque = true,
+                Foto = "/img/Produtos/Mochilas-Bagagens/6.png"
             },
             new() {
                 Id = 29,
-                CategoriaId = 4,
-                Nome = "Bolsa Palmeiras Puma 24/25",
-                Descricao = @"Compacta e cheia de estilo. A bolsa da temporada 24/25 é ideal para quem precisa de praticidade sem abrir mão da identidade alviverde. Com capacidade para os itens essenciais do dia a dia, materiais resistentes e o escudo do Palmeiras bem posicionado, ela é um acessório que acompanha o torcedor em qualquer compromisso.",
-                ValorCusto = 74.95m,
-                ValorVenda = 149.90m,
-                Qtde = 90,
-                Destaque = true,
-                Foto = "/img/produtos/acessorios/5.png"
-            },
-            new() {
-                Id = 30,
                 CategoriaId = 4,
                 Nome = "Bolsa Sport do Palmeiras",
                 Descricao = @"Desenvolvida para acompanhar o ritmo do torcedor ativo. A Bolsa Sport combina espaço generoso com leveza e resistência, sendo perfeita para treinos, academias ou passeios. Com alças confortáveis e o símbolo do Verdão estampado, é uma peça que comunica paixão pelo clube em qualquer situação.",
@@ -346,10 +335,10 @@ public class SeedProduto
                 ValorVenda = 227.90m,
                 Qtde = 70,
                 Destaque = true,
-                Foto = "/img/produtos/acessorios/6.png"
+                Foto = "/img/Produtos/Mochilas-Bagagens/4.png"
             },
             new() {
-                Id = 31,
+                Id = 30,
                 CategoriaId = 4,
                 Nome = "Bolsa Média de Viagem Esportiva do Palmeiras",
                 Descricao = @"Para o torcedor que viaja com o clube no coração. Esta bolsa média de viagem foi pensada para acomodar o necessário de forma organizada, com compartimentos práticos e estrutura robusta. O visual esportivo aliado aos elementos do Palmeiras fazem dela a companheira perfeita para quem não quer deixar o Verdão em casa.",
@@ -357,7 +346,18 @@ public class SeedProduto
                 ValorVenda = 269.90m,
                 Qtde = 45,
                 Destaque = true,
-                Foto = "/img/produtos/acessorios/7.png"
+                Foto = "/img/Produtos/Mochilas-Bagagens/5.png"
+            },
+            new() {
+                Id = 31,
+                CategoriaId = 4,
+                Nome = "Mala Palmeiras Puma 26/27",
+                Descricao = @"Espaço, resistência e identidade em uma única peça. A mala Palmeiras Puma 26/27 foi desenvolvida para acompanhar viagens, treinos e compromissos esportivos com total praticidade. Com amplo compartimento interno e acabamento de qualidade, oferece organização e conforto para transportar seus pertences enquanto demonstra sua paixão pelo Verdão.",
+                ValorCusto = 274.95m,
+                ValorVenda = 549.99m,
+                Qtde = 25,
+                Destaque = true,
+                Foto = "/img/Produtos/Mochilas-Bagagens/7.png"
             },
             new() {
                 Id = 32,
@@ -368,7 +368,7 @@ public class SeedProduto
                 ValorVenda = 659.90m,
                 Qtde = 8,
                 Destaque = true,
-                Foto = "/img/produtos/acessorios/8.png"
+                Foto = "/img/Produtos/Mochilas-Bagagens/8.png"
             },
         ];
         modelBuilder.Entity<Produto>().HasData(produtos);
